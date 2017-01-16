@@ -21,6 +21,7 @@
         $first->add_grade(75);
         $first->add_grade(55);
         $students['j123'] = $first;
+
         $second = new Student();
         $second->surname = "Einstein";
         $second->first_name = "Albert";
@@ -41,7 +42,7 @@
         $third->add_grade(99);
         $third->add_grade(99);
         $third->add_grade(99);
-        $third['a00000000'] = $third;
+        $students['a00000000'] = $third;
 
         //sorting students
         ksort($students);
