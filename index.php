@@ -34,8 +34,8 @@
         $students['a456'] = $second;
 
         $third = new Student();
-        $third->surname = "Matt";
-        $third->first_name = "Rosenlund";
+        $third->surname = "Rosenlund";
+        $third->first_name = "Matt";
         $third->add_email('home','test@test.com');
         $third->add_email('work1','my_email@bcit.ca');
         $third->add_email('work2','matt@website.com');

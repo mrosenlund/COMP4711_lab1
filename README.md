@@ -1,4 +1,6 @@
 Lab 1
 ======
 
-# COMP4711_lab1
+Name: Matthew Rosenlund<br>
+Student Number: A00801989<br>
+Set: 4S
